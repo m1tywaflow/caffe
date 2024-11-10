@@ -1,3 +1,3 @@
-# React Template
+# Caffe
 
-[CAFFE](https://m1tywaflow.github.io/caffe/)
+[Click](https://m1tywaflow.github.io/caffe/)
